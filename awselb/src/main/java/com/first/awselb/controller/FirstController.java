@@ -14,7 +14,7 @@ public class FirstController {
     public String hello()
     {
 
-        return "test1";
+        return "test2";
     }
 
 
